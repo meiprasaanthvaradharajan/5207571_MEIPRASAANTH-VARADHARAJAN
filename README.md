@@ -2,5 +2,5 @@
 
 
 
-!\[Agile for Beginners](./sdlc/Agile%20for%20beginners.png)
+!\[Agile for Beginners](./sdlc/Agile%20forbeginners.png)
 
