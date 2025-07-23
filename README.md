@@ -2,7 +2,7 @@
 
 
 ### Agile for Beginners
-![Agile for Beginners](SDLC/Agile_for_Beginners.png)
+![Agile for Beginners - Course Completion](SDLC/Agile_for_Beginners.png)
 
 
 
