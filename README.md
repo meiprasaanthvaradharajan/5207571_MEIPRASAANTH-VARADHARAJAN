@@ -2,5 +2,5 @@
 
 
 
-!\[Agile for Beginners - Course Completion](./SDLC/Agile\_for\_beginners.png)
+!\[Agile for Beginners - Course Completion](./SDLC/Agile\_for\_Beginners.png)
 
