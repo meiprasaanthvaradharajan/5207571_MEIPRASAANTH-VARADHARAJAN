@@ -1,6 +1,8 @@
 # 5207571\_MEIPRASAANTH-VARADHARAJAN
 
 
+### Agile for Beginners
+![Agile for Beginners](SDLC/Agile_for_Beginners.png)
 
-!\[Agile for Beginners - Course Completion](5207571\_MEIPRASAANTH-VARADHARAJAN/SDLC/Agile\_for\_Beginners.png)
+
 
