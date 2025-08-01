@@ -10,5 +10,10 @@
 ### Introduction to C
 ![Introducton to C - Course Completion](C%20Programming/Introduction_to_C.jpg)
 
+### C Intermediate
+![C Intermediate - Course Completion](C%20Programming/C_Intermediate.jpg)
+
+
+
 
 
